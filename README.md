@@ -1,4 +1,5 @@
-DL as DL (rather than table) Override 
+PDF2 Definition List Formatting Override 
+========================================
 
 Overrides the base definition list formatting
 to use normal FO definition formatting, rather
